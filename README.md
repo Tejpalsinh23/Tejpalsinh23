@@ -43,7 +43,7 @@
 
 ## 🏗 Featured Projects
 
-### 🍽 [AI QR Food Ordering System](https://github.com/Tejpalsinh23/AI-QR-Food-Ordering-System)
+### 🍽 [Scan2Serve](https://github.com/Tejpalsinh23/Scan2Serve)
 > AI-powered smart restaurant ordering system using QR technology and MERN Stack.
 > Customers scan a QR code to view menus, place orders, and pay — all without staff interaction.
 
