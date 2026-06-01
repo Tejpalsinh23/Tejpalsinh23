@@ -50,7 +50,7 @@
 ### 📋 Leave Management System
 > A full-stack web application to manage employee leave requests, approvals, and tracking efficiently.
 
-### 🌐 [Portfolio Website](https://github.com/Tejpalsinh23/Portfolio-modular)
+### 🌐 [Portfolio Website](https://tejpalsinh.netlify.app/)
 > Modern, responsive developer portfolio built with React and a clean modular architecture.
 
 ---
