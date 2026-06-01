@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tejpalsinh 👋
 
-<!--
-**Tejpalsinh23/Tejpalsinh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🎓 BCA Student | 🚀 MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- React.js, Node.js, MongoDB (MERN Stack)
+- Java
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🍽 [AI QR Food Ordering System](https://github.com/Tejpalsinh23/AI-QR-Food-Ordering-System) — AI-powered smart restaurant ordering using QR technology & MERN Stack
+- 📋 Leave Management System
+- 🌐 [Portfolio](https://github.com/Tejpalsinh23/Portfolio-modular) — Modern responsive developer portfolio built with React
+
+## 📫 Contact
+- GitHub: [github.com/Tejpalsinh23](https://github.com/Tejpalsinh23)
